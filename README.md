@@ -1,1 +1,1 @@
-This is Joe's forst git project!
+This is Joe's first git project!
